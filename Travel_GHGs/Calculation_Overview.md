@@ -7,4 +7,4 @@ aviation emissions using data currently available on a range of aircraft types, 
 
 We are currently analyzing the attendee information and conducting the calculation. We will regularly update this repository with updates when available. 
 
-If you attended SBS, and have not filled out the   [SBS Attendee List Form](https://docs.google.com/forms/d/e/1FAIpQLSdNSmDINZgCaWWIU5Z0_F0abqm3DLTfzDBrns8be0NCk0Fl1g/viewform?vc=0&c=0&w=1&flr=0) please do so we can include your information in our calculation. 
+If you attended SBS, and have not filled out the [SBS Attendee List Form](https://docs.google.com/forms/d/e/1FAIpQLSdNSmDINZgCaWWIU5Z0_F0abqm3DLTfzDBrns8be0NCk0Fl1g/viewform?vc=0&c=0&w=1&flr=0) please do so we can include your information in our calculation. 
