@@ -16,8 +16,8 @@ We are currently analyzing the attendee information and conducting the calculati
 | Total passengers CO2 (KG) | 263,416.0 KG | 526,832.0 KG  |
 | Total passengers (Tonnes CO2e) | 290.4 CO2e | 580.7 CO2e  | 
 
-</div> <br>
+</div>
 
-Please refer to the [SBS EU OFfsetting Implementation Plan](https://github.com/protocol/SBS_EU/blob/main/Travel_GHGs/Offsetting_Implementation_Plan.md) to read about our plan to procure high-quality carbon offsets to match 2X the travel-related emissions (estimated 580.7 CO2e). 
+Please refer to the [SBS EU Offsetting Implementation Plan](https://github.com/protocol/SBS_EU/blob/main/Travel_GHGs/Offsetting_Implementation_Plan.md) to read about our plan to procure high-quality carbon offsets to match 2X the travel-related emissions (estimated 580.7 CO2e). 
 
 If you attended SBS, and have not filled out the [SBS Attendee List Form](https://docs.google.com/forms/d/e/1FAIpQLSdNSmDINZgCaWWIU5Z0_F0abqm3DLTfzDBrns8be0NCk0Fl1g/viewform?vc=0&c=0&w=1&flr=0), please do so we can include your information in our calculation. 
