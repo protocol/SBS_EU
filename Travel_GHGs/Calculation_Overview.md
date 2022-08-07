@@ -13,7 +13,7 @@ We are currently analyzing the attendee information and conducting the calculati
 |----------------|-----------|--------------|
 | Attendees      | 312       |              |
 | Countries      | 16        |              |
-| Total passengers CO2/journey (KG) | 263,416.0 KG | 526,832.0 KG  |
+| Total passengers CO2 (KG) | 263,416.0 KG | 526,832.0 KG  |
 | Total passengers (Tonnes CO2e) | 290.4 CO2e | 580.7 CO2e  | 
 
 </div> <br>
