@@ -13,8 +13,8 @@ We are currently analyzing the attendee information and conducting the calculati
 |----------------|-----------|--------------|
 | Attendees      | 312       |              |
 | Countries      | 16        |              |
-| Total passengers CO2 (KG) | 248,316 KG | 496,632 KG  |
-| Total passengers (Metric Tonnes CO2e) | 248.32 CO2e | 496.63 CO2e  | 
+| Total passengers CO2 (KG) | 251,097.6 KG | 502,195.2 KG  |
+| Total passengers (Metric Tonnes CO2e) | 251.10 CO2e | 502.19 CO2e  | 
 
 </div>
 
