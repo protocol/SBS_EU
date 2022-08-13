@@ -1,4 +1,4 @@
-# [Sustainable Blockchain Summit EU](https://sbs.tech/)
+# [Sustainable Blockchain Summit EU](https://www.youtube.com/playlist?list=PL_0VrY55uV1-rI6TyGHSxS9uSqEQbovgv)
 This repo is for public resources from the [Sustainable Blockchain Summit EU](https://sbs.tech/) in Paris, FR on July 22nd - 23rd, 2022.
 
 Resources in this repo include:
