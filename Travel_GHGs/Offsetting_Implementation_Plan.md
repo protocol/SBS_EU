@@ -5,7 +5,7 @@ The Filecoin Green Team is committed to making the Sustainable Blockchain Summit
 As we collect this information, we are [calculating the total emissions impact](https://github.com/protocol/SBS_EU/blob/main/Travel_GHGs/Calculation_Overview.md) and plan to procure high-quality carbon offsets to match 2X the travel-related emissions. We are committed to procuring these high-quality carbon offsets in a transparent & democratic manner, and are experimenting with a community governance process to decide which offsets we procure. This Governance process can be summarized by the following steps (see [here](https://github.com/protocol/FilecoinGreen-tools/blob/main/0007-FGTP-Offset_SBS.md) for more info):
  
 1. Seek input and source quotes from various offset providers.
-2. Allow SBS attendees, and a select panel of experts, the opportunity to rate the available offsets according to the [ICVCM’s Core Carbon Principles](https://icvcm.org/wp-content/uploads/2022/07/ICVCM-Public-Consultation-FINAL-Part-2.pdf), and publish the collective ratings in this repo.
+2. Allow SBS attendees, and a select panel of experts, the opportunity to rate the available offsets according to the [ICVCM’s Core Carbon Principles](https://icvcm.org/wp-content/uploads/2022/07/ICVCM-Public-Consultation-FINAL-Part-2.pdf), and publish the collective ratings in this repo. <b>(in-progress currently)</b>
 3. Design an algorithm to allocate capital to offset projects according to the ratings.
 4. Procure Offsets accordingly and register them on Filecoin via [CO2.Storage](https://github.com/protocol/FilecoinGreen-tools/blob/main/0006-FGTP-CO2_Storage.md).
 5. Airdrop tokens to attendees and speakers that we have wallet addresses for with details of offset activity.
